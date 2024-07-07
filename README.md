@@ -50,6 +50,12 @@
   <img alt="PHP" width="50px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img alt="C" width="50px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img alt="Django" width="50px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img alt="FastApi" width="50px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img alt="Bootstrap" width="50px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="Flutter" width="50px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img alt="Bootstrap" width="50px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="Bootstrap" width="50px" style="padding:20px; margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  
 </p>
 
 
