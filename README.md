@@ -34,7 +34,7 @@
 
 <p align="left">
   
-<img align="left" alt="Java" width="50px" style="padding:10px, margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="50px" style="padding:10px; margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="50px" style="padding:10px, margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Figma" width="50px" style="padding:10px, margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="Docker" width="50px" style="padding:10px, margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
