@@ -52,7 +52,7 @@
   <img alt="Django" width="50px" style="padding:10px; margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </p>
 
-<br />
+
 
 #
 
