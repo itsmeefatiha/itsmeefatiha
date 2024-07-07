@@ -31,7 +31,9 @@
 #
 
 ### 🧰 Languages and Tools
-<p align="center">
+
+<p align="left">
+  
 <img align="left" alt="Java" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Figma" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
@@ -49,10 +51,11 @@
 <img align="left" alt="php" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="C" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </p>
+
 <br />
 
 #
-<br />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeefatiha&show_icons=true&locale=en&layout=compact" alt="itsmeefatiha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmeefatiha&show_icons=true&locale=en" alt="itsmeefatiha" /></p>
