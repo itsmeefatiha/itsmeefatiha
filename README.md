@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://slillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,java,spring,flutter,androidstudio,html,css,bootstrap,firebase,ubuntu,mysql,github,figma,python"/><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,java,spring,flutter,androidstudio,html,css,bootstrap,firebase,ubuntu,mysql,figma,python,linux"/><br>
   </a> 
   <br> </p>
 
