@@ -5,7 +5,7 @@
 
 
 
-<h5 align="center">Hi 👋, I'm Fatiha BOUAZAR</h5>
+<p>Software engineering student</p>
 
 ##
 
