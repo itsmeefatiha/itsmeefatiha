@@ -5,7 +5,7 @@
 
 
 ##
-
+<h1 align="center">Hi 👋, I'm Fatiha BOUAZAR</h1>
 
 
 ### 🧰 Languages and Tools
