@@ -41,17 +41,16 @@
 
 #
 
-<div style="display: flex; gap: 20px;">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeefatiha&show_icons=true&locale=en&layout=compact" alt="itsmeefatiha" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=itsmeefatiha&show_icons=true&locale=en" alt="itsmeefatiha" />
+<div align="center" style="display:flex;flex-direction:row;justify-content:center;">
+  <img  height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeefatiha&show_icons=true&locale=en&layout=compact" alt="itsmeefatiha" style="margin: 0" />
+  <img  height="190" src="https://github-readme-stats.vercel.app/api?username=itsmeefatiha&show_icons=true&locale=en" alt="itsmeefatiha"  style="margin: 0"/>
 
 </div>
 
 
 #
 
-<p>
-  <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeefatiha&" alt="itsmeefatiha" />
-</p>
-
+<div align="center">
+  <img  height="200"src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeefatiha&" alt="itsmeefatiha" />
+</div>
 
