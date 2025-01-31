@@ -34,26 +34,19 @@
   <img alt="Bootstrap" width="50px" style="padding:30px; margin:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img alt="Flutter" width="50px" style="padding:30px; margin:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img alt="VS Code" width="50px" style="padding:30px; margin:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="GitHub" width="50px" style="padding:30px; margin:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ 
 </p>
 
 
 
 #
 
-<p>
-  <img align="center" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeefatiha&show_icons=true&locale=en&layout=compact" alt="itsmeefatiha" />
-</p>
+<div style="display: flex; gap: 20px;">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeefatiha&show_icons=true&locale=en&layout=compact" alt="itsmeefatiha" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=itsmeefatiha&show_icons=true&locale=en" alt="itsmeefatiha" />
 
-<br/>
+</div>
 
-#
-
-<p>
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=itsmeefatiha&show_icons=true&locale=en" alt="itsmeefatiha" />
-</p>
-
-<br/>
 
 #
 
