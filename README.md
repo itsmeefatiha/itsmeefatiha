@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeefatiha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeefatiha" /> </p>
 
 
-##
-<h1 align="center">Hi 👋, I'm Fatiha BOUAZAR</h1>
+
+<h5 align="center">Hi 👋, I'm Fatiha BOUAZAR</h5>
 
 
 ### 🧰 Languages and Tools
