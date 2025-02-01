@@ -14,7 +14,7 @@
 <div>
 
   <a href="https://slillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,html,css,bootstrap,mysql,php,laravel,javascript,python,django,androidstudio,flutter,react,fastapi,linux,docker,github,git,figma?powerbi"/><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,c,html,css,bootstrap,mysql,php,laravel,javascript,python,django,androidstudio,flutter,react,fastapi,linux,docker,github,git,figma,powerbi"/><br>
   </a> 
  
 </div>
