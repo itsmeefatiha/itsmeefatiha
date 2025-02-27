@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Fatiha BOUAZAR</h1>
+<h1 align="center">Hi, I'm Fatiha BOUAZAR</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/f3/4b/bdf34b4cc9b48276854fb78466bc5cdd.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeefatiha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeefatiha" /> </p>
 
 
 
-<p>Software engineering student</p>
+<p>🚀 Future Software Engineer | Full-Stack Developer | DevOps Enthusiast | UX/UI Designer
+
+Passionate about building scalable applications, optimizing workflows, and crafting intuitive user experiences. I love exploring new technologies, creating seamless designs, and continuously improving my skills in software development and DevOps. Always learning and innovating!</p>
 
 ##
 
