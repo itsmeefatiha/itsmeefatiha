@@ -26,12 +26,20 @@ Passionate about building scalable applications, optimizing workflows, and craft
 #
 ### ⚡ Statistics 
 
-<div align="center" style="display:flex;flex-direction:row;justify-content:center;">
-  <img  height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeefatiha&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="itsmeefatiha" style="margin: 0" />
-  <img  height="190" src="https://github-readme-stats.vercel.app/api?username=itsmeefatiha&show_icons=true&theme=tokyonight&locale=en" alt="itsmeefatiha"  style="margin: 0"/>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=itsmeefatiha&theme=tokyonight&hide_border=true&border_radius=5&card_width=800">
+</p>
 
-</div>
 
+---
+<p align="center">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=itsmeefatiha&show_icons=true&theme=tokyonight&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+ ---
+<p align="center">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeefatiha&size_weight=0.15&count_weight=0.5&layout=compact&theme=tokyonight&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 #
 
