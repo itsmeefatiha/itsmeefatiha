@@ -29,7 +29,7 @@ Passionate about building scalable applications, optimizing workflows, and craft
 ### ⚡ Statistics 
 
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats-itsmeefatiha.vercel.app/?user=itsmeefatiha&theme=tokyonight&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://github-readme-streak-stats-itsmeefatiha.vercel.app/?user=itsmeefatiha&count_private=true&theme=tokyonight&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
