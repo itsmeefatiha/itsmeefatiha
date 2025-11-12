@@ -29,7 +29,7 @@ Passionate about building scalable applications, optimizing workflows, and craft
 ### ⚡ Statistics 
 
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-streak-stats.vercel.app/?user=itsmeefatiha&count_private=true&theme=tokyonight&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeefatiha&theme=tokyonight&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -40,7 +40,7 @@ Passionate about building scalable applications, optimizing workflows, and craft
 
  ---
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeefatiha&size_weight=0.15&count_weight=0.5&layout=compact&theme=tokyonight&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeefatiha&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&size_weight=0.15&count_weight=0.5&&border_radius=5&card_width=800">
 </p>
 
 #
