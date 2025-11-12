@@ -16,7 +16,7 @@ Passionate about building scalable applications, optimizing workflows, and craft
 <div>
 
   <a href="https://slillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,html,css,mysql,postgresql,php,laravel,javascript,vue,react,python,django,androidstudio,fastapi,linux,docker,github,git,figma,idea,vscode,eclipse,postman"/><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,c,html,css,mysql,postgresql,php,laravel,javascript,vue,react,python,django,fastapi,linux,docker,github,git,figma,androidstudio,idea,vscode,eclipse,postman"/><br>
   </a> 
  
 </div>
