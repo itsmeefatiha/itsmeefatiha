@@ -5,11 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeefatiha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeefatiha" /> </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsmeefatiha.itsmeefatiha" />
 
 <p>🚀 Future Software Engineer | Full-Stack Developer | DevOps Enthusiast | UX/UI Designer
 
 Passionate about building scalable applications, optimizing workflows, and crafting intuitive user experiences. I love exploring new technologies, creating seamless designs, and continuously improving my skills in software development and DevOps. Always learning and innovating!</p>
+
+<div align="left"> 
+  <a href="mailto:fatihabouzar450@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/fatiha-bouazar-b9886b233" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 ##
 
