@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Hi%20there%20%F0%9F%91%8B%20Welcome%20to%20my%20GitHub!&theme=shadow&color=%23761FF7&particleColor=%23ffffff&background=%230d1117" alt="Welcome Banner" />
+  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Hi%20there%20%F0%9F%91%8B%20Welcome%20to%20my%20GitHub!&theme=shadow&color=%23000000&particleColor=%23ffffff&background=%230d1117" alt="Welcome Banner" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/f3/4b/bdf34b4cc9b48276854fb78466bc5cdd.gif"/>
