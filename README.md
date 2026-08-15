@@ -43,14 +43,11 @@ Passionate about building scalable applications, optimizing workflows, and craft
 ---
 <p align="center">
 <img width="800" height="220" src="https://github-stats-extended.vercel.app/api?username=itsmeefatiha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&border_radius=5&card_width=800"> 
-
-  <img width="800" height="220" src="https://readme-stats-github.pages.dev/api?username=itsmeefatiha&theme=shadow&hide_border=true&count_private=true&border_radius=5&card_width=800" alt="itsmeefatiha's GitHub Stats" />
 </p>
 
  ---
 <p align="center">
 <img width="800" height="220" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itsmeefatiha&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&size_weight=0.15&count_weight=0.5&&border_radius=5&card_width=800">
-    <img width="800" height="220" src="https://readme-stats-github.pages.dev/api/top-langs?username=itsmeefatiha&theme=shadow" alt="itsmeefatiha's GitHub Stats" />
 </p>
 
 #
