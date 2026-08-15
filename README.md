@@ -43,10 +43,8 @@ Passionate about building scalable applications, optimizing workflows, and craft
 ---
 <p align="center">
  <!-- <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=itsmeefatiha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&border_radius=5&card_width=800"> -->
-    ![itsmeefatiha's GitHub Stats](https://readme-stats-github.pages.dev/api?username=itsmeefatiha&theme=shadow)
-    <p align="center">
-  <img width="800" height="220" src="https://readme-stats-github.pages.dev/api?username=itsmeefatiha&theme=shadow" alt="itsmeefatiha's GitHub Stats" />
-</p>
+
+  <img width="800" height="220" src="https://readme-stats-github.pages.dev/api?username=itsmeefatiha&theme=shadow&hide_border=true&count_private=true&border_radius=5&card_width=800" alt="itsmeefatiha's GitHub Stats" />
 </p>
 
  ---
